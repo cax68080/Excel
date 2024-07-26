@@ -1,0 +1,5 @@
+P0001Drink     Tea            2017040100006700
+P0002Drink     White Wine     2018042100037500
+P0011Food      Beef           2018010100044800
+P0021Sweets    Shortcake      2019123100043200
+P0029Goods     Paper Towel    2020100100015000
